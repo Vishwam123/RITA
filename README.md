@@ -1,2 +1,0 @@
-# RITA
-GitHub Pages
